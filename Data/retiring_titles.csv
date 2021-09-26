@@ -1,8 +1,9 @@
-count,title
-29414,Senior Engineer
-28254,Senior Staff
-14222,Engineer
-12243,Staff
-4502,Technique Leader
-1761,Assistant Engineer
-2,Manager
+count,title,,,,,,,,
+29414,Senior Engineer,,32.53833049,,,Senoir Staff retiring,,,57668
+28254,Senior Staff,,31.25511626,,,Percent reitinr that’s senoir staff,,,63.79344676
+14222,Engineer,,15.73264895,,,,,,
+12243,Staff,,13.54344123,,,,,,
+4502,Technique Leader,,4.980198677,,,Total Engineering,,43636,
+1761,Assistant Engineer,,1.948051948,,,percent enginerring retiring,,,48.27097945
+2,Manager,,0.002212438,,,,,,
+90398,,,,,,,,,
